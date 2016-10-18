@@ -1,2 +1,4 @@
 # MeiPian
-My code about MeiPian 
+My code about Mystudy.
+
+Sunnymin here, to writedown my study experence.
